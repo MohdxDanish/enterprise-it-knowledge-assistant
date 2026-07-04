@@ -1,0 +1,8 @@
+Multi-Factor Authen ticationReset Procedure
+
+1. Open MS Entra Admin Center.
+2. Navigate to Users.
+3.Select target user.
+4. Click Authentication method.
+5. Select require re-register MFA.
+6. User must register MFA again at next sign in.
